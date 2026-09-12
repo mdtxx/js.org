@@ -628,6 +628,7 @@ var cnames_active = {
   "confetti": "tsparticles.github.io/confetti",
   "conflict": "conflictjs.github.io/site",
   "conflux": "maybeizen.github.io/conflux",
+  "devtx": "devtx.vercel.app"
   "conglo": "schwarzkopfb.github.io/conglo",
   "connect.stacks": "cname.vercel-dns.com", // noCF
   "consent": "datamart.github.io/Consent",
